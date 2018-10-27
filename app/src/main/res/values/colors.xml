@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8e24aa</color>
+    <color name="colorPrimaryDark">#8e24aa</color>
+    <color name="colorAccent">#16306e</color>
+    <color name="tab_background_selected">#2499E0</color>
+    <color name="tab_background_unselected">#16309E</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorPrimary1">#16306E</color>
+    <color name="colorPrimaryDark1">#16306E</color>
+    <color name="colorAccent1">#16306E</color>
+    <color name="Pink_Color">#e31fa8</color>
+    <color name="text_color">#8000FF</color>
+    <color name="golden">#ffd54f</color>
+    <color name="goldlight">#ffd54f</color>
+</resources>
